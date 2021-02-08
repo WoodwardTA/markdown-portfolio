@@ -1,0 +1,2 @@
+- [ ] favorite thing one
+- [ ] favorite thing two
